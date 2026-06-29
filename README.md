@@ -2,12 +2,25 @@
 
 This Repository is a Minimal MkDocs TikZJax Site.  
 It is a MINIMAL WORKING MKDOCS TIKZJAX Site.  
-It refers to this project on Github: [rod2ik/tikzjax on Github]()
 
-clone it:
+This is just a cloning facility to more easily test the following project on Github: [rod2ik/tikzjax](https://github.com/rod2ik/tikzjax)
+
+Clone it:
 
 ```bash
-git clone git@gitlab.com:eskool/minimal-mkdocs-tikzjax.git
+git clone git@github.com:rod2ik/minimal-mkdocs-tikzjax.git
+```
+
+cd to the folder:
+
+```bash
+cd minimal-mkdocs-tikzjax
+```
+
+Test it (this needs mkdocs to be installed locally..)
+
+```bash
+mkdocs serve
 ```
 
 ## License
