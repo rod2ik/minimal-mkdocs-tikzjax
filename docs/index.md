@@ -1,6 +1,11 @@
-# Minimal Site for rod2ik/TikZJax
+# Minimal MkDocs Page Example for rod2ik/TikZJax
 
-TEST PAGE:
+This is an example of a normal MkDocs Markdown page, with **TiZJax** and **tkz-tab**.
+
+Below you will find the two accepted syntaxes, both in Light / Dark Mode :
+
+* Script Syntax: `<script type="text/tikz">... your code here </script>`
+* tikzjax code bloc Syntax : ` ```tikzjax  ...your code here ``` `
 
 ## Script Syntax
 

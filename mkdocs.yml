@@ -30,7 +30,8 @@ theme:
 
 nav:
   - Home: index.md
-  - HTML Standalone: custom.html
+  - Minimal Standalone HTML Page: minimal.html
+  - Advanced Standalone HTML Page: advanced.html
 
 markdown_extensions:
   # - admonition
